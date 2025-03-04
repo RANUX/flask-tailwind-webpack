@@ -52,6 +52,7 @@
     "webpack-merge": "^6.0.1"
   },
   "dependencies": {
+    "alpinejs": "^3.14.8",
     "core-js": "^3.41.0"
   }
 }
